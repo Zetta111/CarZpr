@@ -1,0 +1,31 @@
+Make,Model,Year,Trim,Body Style,Engine,Displacement (L),Cylinders,Forced Induction,Horsepower (hp),Torque (lb-ft),0-60 mph (sec),Top Speed (mph),Transmission,Drive Type,Fuel Type,City MPG,Highway MPG,Combined MPG,Curb Weight (lbs),Length (in),Width (in),Height (in),Wheelbase (in),Cargo Volume (cu ft),MSRP (USD)
+Audi,A4,2024,45 TFSI quattro,Sedan,2.0L Turbocharged I4,2.0,4,Turbocharged,261,273,5.4,130,7-Speed S Tronic DCT,AWD (quattro),Premium,28,34,30,3737,187.0,72.7,56.2,111.0,13.7,44900
+Audi,A6,2025,55 TFSI quattro,Sedan,3.0L Turbocharged V6,3.0,6,Turbocharged,335,369,5.1,155,7-Speed S Tronic DCT,AWD (quattro),Premium,21,29,24,4255,194.4,74.5,57.5,115.1,13.8,60000
+Audi,S6,2025,S6 quattro,Sedan,2.9L Biturbo V6,2.9,6,Twin-Turbocharged,444,443,4.4,155,8-Speed Tiptronic,AWD (quattro),Premium,19,27,22,4487,194.4,74.5,57.5,115.1,13.8,80900
+Audi,RS7,2024,RS7 Sportback,Sedan,4.0L Biturbo V8,4.0,8,Twin-Turbocharged,591,590,3.5,190,8-Speed Tiptronic,AWD (quattro),Premium,15,22,17,4938,196.0,76.0,55.9,116.2,25.2,124900
+BMW,3 Series,2025,330i xDrive,Sedan,2.0L Turbocharged I4,2.0,4,Turbocharged,255,295,5.4,130,8-Speed Steptronic,AWD (xDrive),Premium,26,36,29,3814,185.7,71.9,56.8,112.2,17.0,48000
+BMW,5 Series,2024,540i xDrive,Sedan,3.0L Turbocharged I6,3.0,6,Turbocharged,375,398,4.6,155,8-Speed Steptronic,AWD (xDrive),Premium,22,31,25,4584,196.0,74.8,58.1,117.4,18.0,72000
+BMW,M3,2025,M3 Competition xDrive,Sedan,3.0L Biturbo I6,3.0,6,Twin-Turbocharged,503,479,3.4,180,8-Speed M Steptronic,AWD (xDrive),Premium,16,23,19,3990,184.5,72.7,56.5,112.0,13.0,82000
+BMW,M5,2025,M5 xDrive,Sedan,4.4L Biturbo V8,4.4,8,Twin-Turbocharged,717,516,3.4,190,8-Speed M Steptronic,AWD (xDrive),Premium Hybrid,15,20,17,5390,195.8,74.9,57.6,117.4,14.0,122000
+BMW,7 Series,2024,760i xDrive,Sedan,4.4L Biturbo V8,4.4,8,Twin-Turbocharged,536,553,3.9,155,8-Speed Steptronic,AWD (xDrive),Premium,17,24,20,5363,212.5,77.0,58.3,126.0,17.0,118000
+Mercedes-Benz,C-Class,2025,C300 4MATIC,Sedan,2.0L Turbocharged I4,2.0,4,Turbocharged,255,295,5.9,130,9-Speed 9G-TRONIC,AWD (4MATIC),Premium,23,33,27,3792,186.6,71.3,56.6,111.8,12.6,48000
+Mercedes-Benz,E-Class,2024,E500 4MATIC,Sedan,3.0L Turbocharged I6,3.0,6,Turbocharged,443,413,4.7,155,9-Speed 9G-TRONIC,AWD (4MATIC),Premium,21,28,24,4432,196.9,75.0,57.5,118.3,14.4,70000
+Mercedes-Benz,AMG C63,2025,AMG C63 S E Performance,Sedan,2.0L Turbo I4 + Electric,2.0,4,Turbocharged + Hybrid,671,752,3.4,155,9-Speed MCT,AWD (4MATIC+),Premium Hybrid,23,25,24,4590,186.6,71.3,56.6,111.8,12.6,92000
+Mercedes-Benz,AMG E63 S,2024,AMG E63 S 4MATIC+,Sedan,4.0L Biturbo V8,4.0,8,Twin-Turbocharged,603,627,3.3,186,9-Speed MCT,AWD (4MATIC+),Premium,16,22,18,4784,196.9,75.0,57.5,118.3,14.4,111000
+Mercedes-Benz,S-Class,2025,S580 4MATIC,Sedan,4.0L Biturbo V8,4.0,8,Twin-Turbocharged,496,516,4.4,155,9-Speed 9G-TRONIC,AWD (4MATIC),Premium,16,24,19,5004,209.1,76.9,59.2,126.4,16.3,122000
+Lexus,IS,2025,IS 500 F Sport,Sedan,5.0L Naturally Aspirated V8,5.0,8,None,472,395,4.5,168,8-Speed Sport Direct-Shift AT,RWD,Premium,17,26,20,3803,184.3,71.3,55.7,110.2,13.5,58000
+Lexus,ES,2024,ES 350 F Sport,Sedan,3.5L Naturally Aspirated V6,3.5,6,None,302,267,6.7,135,8-Speed Direct-Shift AT,FWD,Regular,22,32,26,3737,195.9,73.4,57.1,111.0,16.7,48000
+Lexus,GS,2025,GS 350 AWD,Sedan,3.5L Naturally Aspirated V6,3.5,6,None,311,280,5.6,143,8-Speed AT,AWD,Premium,19,26,22,4035,191.5,71.7,55.7,112.2,14.4,55000
+Lexus,LS,2024,LS 500 AWD,Sedan,3.5L Biturbo V6,3.5,6,Twin-Turbocharged,416,442,4.6,148,10-Speed Direct-Shift AT,AWD,Premium,18,27,21,4806,206.1,74.6,57.5,123.0,16.9,79000
+Acura,TLX,2025,TLX Type S,Sedan,3.0L Turbocharged V6,3.0,6,Turbocharged,355,354,4.4,168,10-Speed AT,AWD (SH-AWD),Premium,18,26,21,4012,194.7,73.8,56.0,113.8,13.5,55000
+Acura,TLX,2024,TLX A-Spec,Sedan,2.0L Turbocharged I4,2.0,4,Turbocharged,272,280,6.1,130,10-Speed AT,AWD (SH-AWD),Premium,21,30,24,3793,194.7,73.8,56.0,113.8,13.5,44000
+Acura,Integra,2025,Integra Type S,Sedan,2.0L Turbocharged I4,2.0,4,Turbocharged,320,310,5.0,149,6-Speed Manual,FWD,Premium,22,30,25,3250,184.9,71.5,55.9,107.7,14.4,43000
+Porsche,Panamera,2025,Panamera 4S,Sedan,2.9L Biturbo V6,2.9,6,Twin-Turbocharged,473,516,3.8,179,8-Speed PDK,AWD,Premium,19,26,22,4584,200.0,76.2,55.9,116.1,17.6,117000
+Porsche,Panamera,2024,Panamera Turbo S,Sedan,4.0L Biturbo V8,4.0,8,Twin-Turbocharged,620,604,3.1,196,8-Speed PDK,AWD,Premium,16,23,18,4775,200.0,76.2,55.9,116.1,17.6,190000
+Porsche,Panamera,2026,Panamera 4 E-Hybrid,Sedan,2.9L Biturbo V6 + Electric,2.9,6,Twin-Turbocharged + Hybrid,470,516,3.7,177,8-Speed PDK,AWD,Premium Hybrid,22,25,24,4740,200.0,76.2,55.9,116.1,17.6,103000
+Ferrari,Purosangue,2025,Purosangue (4-Door),Sedan,6.5L Naturally Aspirated V12,6.5,12,None,715,528,3.3,193,8-Speed DCT,AWD,Premium,11,16,13,4900,199.8,78.3,64.5,117.7,16.1,400000
+Ferrari,Roma,2024,Roma 4+,Sedan,3.9L Biturbo V8,3.9,8,Twin-Turbocharged,612,561,3.4,199,8-Speed DCT,RWD,Premium,15,21,17,3461,183.7,82.0,51.9,105.1,10.8,222000
+Lamborghini,Urus SE,2025,Urus SE (Sedan-derived),Sedan,4.0L Biturbo V8 + Electric,4.0,8,Twin-Turbocharged + Hybrid,789,701,3.4,193,8-Speed Torque Converter,AWD,Premium Hybrid,18,21,19,5314,201.6,79.9,64.0,118.1,21.6,275000
+Maserati,Ghibli,2025,Ghibli Trofeo,Sedan,3.8L Biturbo V8,3.8,8,Twin-Turbocharged,572,538,4.3,203,8-Speed ZF AT,AWD,Premium,15,21,17,4376,196.6,75.2,57.5,116.3,17.3,100000
+Maserati,Quattroporte,2024,Quattroporte Trofeo,Sedan,3.8L Biturbo V8,3.8,8,Twin-Turbocharged,572,538,4.2,203,8-Speed ZF AT,AWD,Premium,15,22,17,4519,207.0,77.1,57.9,123.5,19.3,142000
+Alfa Romeo,Giulia,2025,Giulia Quadrifoglio,Sedan,2.9L Biturbo V6,2.9,6,Twin-Turbocharged,505,443,3.8,191,8-Speed ZF AT,RWD,Premium,17,24,20,3800,182.6,73.1,56.0,111.0,11.0,80000
